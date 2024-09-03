@@ -9,7 +9,7 @@ int main() {
   getline(cin, input);
 
   if (input == "я человек" or "Я человек") {
-    cout << "А я - компьютер" << endl;
+    cout << "А я - компьютер, я тебя умнее" << endl;
   }
 
   return 0;
